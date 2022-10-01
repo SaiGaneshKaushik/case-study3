@@ -1,0 +1,54 @@
+body
+{
+ background-image: linear-gradient( 135deg, #5EFCE8 10%, #736EFE 100%);
+}
+#title
+{
+  color: rgb(255, 0, 0);
+  font-size: 20px;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+.google_lens{
+  margin-left: 30px;
+  font-weight: bold;
+}
+.mobilenet{
+    letter-spacing: 2px;
+}
+.img-responsive{
+  width: 70%;
+  height: 50%;
+}
+.test_image_and_result{
+background-color: rgb(151, 148, 148);
+}
+.mb{
+  background-color: white;
+  border-radius: 10px;
+  margin: left 5%;
+}
+b{
+  color:  purple;
+}
+h4{
+  color: white;
+}
+.gl{
+  background-color: white;
+  border-radius: 10px;
+  margin: left 5%;
+}
+.copy_right_footer{
+ position: relative;
+  background: linear-gradient(45deg,rgb(58, 185, 205), rgb(178, 236, 85), rgb(33, 249, 173));
+  bottom:0;
+  width:100%;
+  text-align: center;
+  line-height: 2.7;
+  font-size: 15px;
+  color: white;
+}
+.p{
+
+}
